@@ -1,2 +1,3 @@
 #!/bin/bash
-file -i -m SCHOOL*
+file -C -m SCHOOL*
+file -m SCHOOL* 
