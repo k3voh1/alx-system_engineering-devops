@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d | xargs chmod -v a+x
+chmod a+x *
