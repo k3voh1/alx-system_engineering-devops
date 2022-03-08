@@ -1,4 +1,5 @@
-i0x03. Shell, init files, variables and expansions tasks </br >
+Shell, init files, variables and expansions tasks </br >
+ </br >
 Code in file 0-alias  - creates an alias  </br >
 Code in file 1-hello_you  - prints hello user, where user is the current Linux user.  </br >
 Code in file 2-path  - adds /action to the PATH. /action is the last directory the shell looks into when looking for a program.  </br >
@@ -17,6 +18,6 @@ Code in file 100-decimal_to_hexadecimal  - converts a number from base 10 to bas
 Code in file 101-rot13  - encodes and decodes text using the rot13 encryption. Assume ASCII. </br >
 Code in file 102-odd  - prints every other line from the input, starting with the first line. </br >
 Code in file 103-water_and_stir - Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.  </br >
-  WATER is in base water </br >
-  STIR is in base stir. </br >
-  The result should be in base bestchol </br >	  
+ -  WATER is in base water </br >
+ -  STIR is in base stir. </br >
+ -  The result should be in base bestchol </br >	  
